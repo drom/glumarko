@@ -1,0 +1,2 @@
+# glumarko
+Stickers
