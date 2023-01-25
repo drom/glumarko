@@ -11,3 +11,5 @@ https://github.com/maxogden/hexbin
 
 * https://www.stickermule.com/uses/hexagon-stickers
 * https://www.stickermule.com/products/holographic-stickers
+
+![](block1.svg)
